@@ -1,0 +1,11 @@
+{
+  "name": "website",
+  "version": "0.0.10",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
